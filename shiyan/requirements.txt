@@ -1,0 +1,30 @@
+# 核心依赖
+requests>=2.31.0
+flask>=2.3.0
+
+# 环境配置
+python-dotenv>=1.0.0
+
+# MCP客户端依赖
+mcp>=0.1.0
+
+# 日志和工具
+argparse
+
+# 系统监控
+psutil>=5.8.0
+
+# 可选：更好的JSON处理
+orjson>=3.9.0
+
+# 可选：异步支持
+aiohttp>=3.8.0
+
+# Excel报告生成
+openpyxl>=3.1.0
+pandas>=2.0.0
+
+# 开发依赖（可选）
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
